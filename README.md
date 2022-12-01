@@ -1,6 +1,3 @@
-# nkwiecienn.github.io
-Moja strona
-
 ## Arctic Monkeys
 #### To więcej niż czterech Brytyjczyków
 
